@@ -1,6 +1,5 @@
-# requirements.txt
 aiogram==3.4.1
 fastapi==0.110.0
 uvicorn==0.28.0
 redis==5.0.3
-pydantic==2.6.4
+pydantic==2.5.3
